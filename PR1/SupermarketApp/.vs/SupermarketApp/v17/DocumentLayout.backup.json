@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\SupermarketApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71EB1EF2-E277-43B2-A86C-7D388B86C9C5}|SupermarketApp\\SupermarketApp.csproj|D:\\Projects\\SupermarketApp\\supermarketapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EB1EF2-E277-43B2-A86C-7D388B86C9C5}|SupermarketApp\\SupermarketApp.csproj|solutionrelative:supermarketapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EB1EF2-E277-43B2-A86C-7D388B86C9C5}|SupermarketApp\\SupermarketApp.csproj|d:\\projects\\supermarketapp\\supermarketapp\\spisokproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71EB1EF2-E277-43B2-A86C-7D388B86C9C5}|SupermarketApp\\SupermarketApp.csproj|solutionrelative:supermarketapp\\spisokproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EB1EF2-E277-43B2-A86C-7D388B86C9C5}|SupermarketApp\\SupermarketApp.csproj|D:\\Projects\\SupermarketApp\\supermarketapp\\spisokproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EB1EF2-E277-43B2-A86C-7D388B86C9C5}|SupermarketApp\\SupermarketApp.csproj|solutionrelative:supermarketapp\\spisokproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\Projects\\SupermarketApp\\SupermarketApp\\DataBase.cs",
+              "RelativeDocumentMoniker": "SupermarketApp\\DataBase.cs",
+              "ToolTip": "D:\\Projects\\SupermarketApp\\SupermarketApp\\DataBase.cs",
+              "RelativeToolTip": "SupermarketApp\\DataBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:27:22.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpisokProducts.cs",
+              "DocumentMoniker": "D:\\Projects\\SupermarketApp\\SupermarketApp\\SpisokProducts.cs",
+              "RelativeDocumentMoniker": "SupermarketApp\\SpisokProducts.cs",
+              "ToolTip": "D:\\Projects\\SupermarketApp\\SupermarketApp\\SpisokProducts.cs",
+              "RelativeToolTip": "SupermarketApp\\SpisokProducts.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA7wEIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:14:47.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpisokProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Projects\\SupermarketApp\\SupermarketApp\\SpisokProducts.cs",
+              "RelativeDocumentMoniker": "SupermarketApp\\SpisokProducts.cs",
+              "ToolTip": "D:\\Projects\\SupermarketApp\\SupermarketApp\\SpisokProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SupermarketApp\\SpisokProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:10:11.347Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

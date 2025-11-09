@@ -1,0 +1,11 @@
+D:\Projects\TicketApp\TicketApp\bin\Debug\TicketApp.exe.config
+D:\Projects\TicketApp\TicketApp\bin\Debug\TicketApp.exe
+D:\Projects\TicketApp\TicketApp\bin\Debug\TicketApp.pdb
+D:\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.AssemblyReference.cache
+D:\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.Form1.resources
+D:\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.Properties.Resources.resources
+D:\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+D:\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+D:\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.exe
+D:\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
+D:\Projects\TicketApp\TicketApp\obj\Debug\TicketApp.exe.config

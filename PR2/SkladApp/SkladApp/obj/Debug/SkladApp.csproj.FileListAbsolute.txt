@@ -1,0 +1,11 @@
+D:\Projects\SkladApp\SkladApp\bin\Debug\SkladApp.exe.config
+D:\Projects\SkladApp\SkladApp\bin\Debug\SkladApp.exe
+D:\Projects\SkladApp\SkladApp\bin\Debug\SkladApp.pdb
+D:\Projects\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.AssemblyReference.cache
+D:\Projects\SkladApp\SkladApp\obj\Debug\SkladApp.Properties.Resources.resources
+D:\Projects\SkladApp\SkladApp\obj\Debug\SkladApp.Sklad.resources
+D:\Projects\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.GenerateResource.cache
+D:\Projects\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.CoreCompileInputs.cache
+D:\Projects\SkladApp\SkladApp\obj\Debug\SkladApp.exe
+D:\Projects\SkladApp\SkladApp\obj\Debug\SkladApp.pdb
+D:\Projects\SkladApp\SkladApp\obj\Debug\SkladApp.exe.config

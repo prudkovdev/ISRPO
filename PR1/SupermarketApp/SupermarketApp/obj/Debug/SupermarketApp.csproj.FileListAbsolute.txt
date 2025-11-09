@@ -1,0 +1,11 @@
+D:\Projects\SupermarketApp\SupermarketApp\bin\Debug\SupermarketApp.exe.config
+D:\Projects\SupermarketApp\SupermarketApp\bin\Debug\SupermarketApp.exe
+D:\Projects\SupermarketApp\SupermarketApp\bin\Debug\SupermarketApp.pdb
+D:\Projects\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.csproj.AssemblyReference.cache
+D:\Projects\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.SpisokProducts.resources
+D:\Projects\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.Properties.Resources.resources
+D:\Projects\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.csproj.GenerateResource.cache
+D:\Projects\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.csproj.CoreCompileInputs.cache
+D:\Projects\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.exe
+D:\Projects\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.pdb
+D:\Projects\SupermarketApp\SupermarketApp\obj\Debug\SupermarketApp.exe.config
