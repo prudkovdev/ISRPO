@@ -1,0 +1,11 @@
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.exe.config
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.exe
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\bin\Debug\CurrencyConverterApp.pdb
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.AssemblyReference.cache
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.Properties.Resources.resources
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.GenerateResource.cache
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.csproj.CoreCompileInputs.cache
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.exe
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.pdb
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.exe.config
+D:\Projects\ISRPO\Praktikum\CurrencyConverterApp\CurrencyConverterApp\obj\Debug\CurrencyConverterApp.MainForm.resources

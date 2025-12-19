@@ -1,0 +1,13 @@
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\bin\Debug\PublishingApp.exe.config
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\bin\Debug\PublishingApp.exe
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\bin\Debug\PublishingApp.pdb
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\obj\Debug\PublishingApp.csproj.AssemblyReference.cache
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\obj\Debug\PublishingApp.MainForm.resources
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\obj\Debug\PublishingApp.Properties.Resources.resources
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\obj\Debug\PublishingApp.csproj.GenerateResource.cache
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\obj\Debug\PublishingApp.csproj.CoreCompileInputs.cache
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\obj\Debug\PublishingApp.exe
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\obj\Debug\PublishingApp.pdb
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\obj\Debug\PublishingApp.exe.config
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\obj\Debug\PublishingApp.OrderForm.resources
+D:\Projects\ISRPO\PR7\PublishingApp\PublishingApp\obj\Debug\PublishingApp.ReceiptForm.resources
