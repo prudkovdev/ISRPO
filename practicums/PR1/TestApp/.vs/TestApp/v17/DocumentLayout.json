@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\ISRPO\\practicums\\PR1\\TestApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AA2D0B7A-7DD9-4786-A769-4EC6ECD68B3F}|Testing\\TestApp.csproj|d:\\projects\\isrpo\\practicums\\pr1\\testapp\\testing\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AA2D0B7A-7DD9-4786-A769-4EC6ECD68B3F}|Testing\\TestApp.csproj|solutionrelative:testing\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,19 +46,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\Projects\\ISRPO\\practicums\\PR1\\TestApp\\Testing\\App.config",
-              "RelativeDocumentMoniker": "Testing\\App.config",
-              "ToolTip": "D:\\Projects\\ISRPO\\practicums\\PR1\\TestApp\\Testing\\App.config",
-              "RelativeToolTip": "Testing\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-03-17T12:33:23.604Z",
-              "EditorCaption": ""
             }
           ]
         }

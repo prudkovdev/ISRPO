@@ -1,0 +1,16 @@
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\bin\Debug\CountCharactersApp.exe.config
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\bin\Debug\CountCharactersApp.exe
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\bin\Debug\CountCharactersApp.pdb
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\bin\Debug\System.Data.SqlClient.dll
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\bin\Debug\System.Data.SqlClient.xml
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\obj\Debug\CountCharactersApp.csproj.AssemblyReference.cache
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\obj\Debug\CountCharactersApp.MainForm.resources
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\obj\Debug\CountCharactersApp.Properties.Resources.resources
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\obj\Debug\CountCharactersApp.csproj.GenerateResource.cache
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\obj\Debug\CountCharactersApp.csproj.CoreCompileInputs.cache
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\obj\Debug\CountCha.08577EAC.Up2Date
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\obj\Debug\CountCharactersApp.exe
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\obj\Debug\CountCharactersApp.pdb
+D:\Projects\ISRPO\labs\L9\CountCharactersApp\CountCharactersApp\obj\Debug\CountCharactersApp.exe.config

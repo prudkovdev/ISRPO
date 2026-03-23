@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace Testing
 {
@@ -165,8 +166,11 @@ namespace Testing
 
         private void bBack_Click(object sender, EventArgs e)
         {
+            if (QuestionNum != 0 && _userAnswers[QuestionNum - 1].IsCorrect)
+                User.Score--;
             QuestionNum--;
             bNext.Text = "Далее -->";
+            rbOption1.Checked = true;
         }
 
         private void bNext_Click(object sender, EventArgs e)
@@ -199,6 +203,7 @@ namespace Testing
                 Exit();
 
             QuestionNum++;
+            rbOption1.Checked = true;
         }
     }
 }
