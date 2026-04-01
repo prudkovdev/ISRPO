@@ -1,0 +1,16 @@
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\bin\Debug\FieldOfMiraclesApp.exe.config
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\bin\Debug\FieldOfMiraclesApp.exe
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\bin\Debug\FieldOfMiraclesApp.pdb
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\bin\Debug\System.Data.SqlClient.dll
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\bin\Debug\System.Data.SqlClient.xml
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\obj\Debug\FieldOfMiraclesApp.csproj.AssemblyReference.cache
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\obj\Debug\FieldOfMiraclesApp.MainForm.resources
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\obj\Debug\FieldOfMiraclesApp.Properties.Resources.resources
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\obj\Debug\FieldOfMiraclesApp.csproj.GenerateResource.cache
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\obj\Debug\FieldOfMiraclesApp.csproj.CoreCompileInputs.cache
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\obj\Debug\FieldOfM.3A50D202.Up2Date
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\obj\Debug\FieldOfMiraclesApp.exe
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\obj\Debug\FieldOfMiraclesApp.pdb
+D:\Projects\ISRPO\labs\L10\FieldOfMiraclesApp\FieldOfMiraclesApp\obj\Debug\FieldOfMiraclesApp.exe.config

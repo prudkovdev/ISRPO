@@ -1,0 +1,17 @@
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\bin\Debug\AlarmClockApp.exe.config
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\bin\Debug\AlarmClockApp.exe
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\bin\Debug\AlarmClockApp.pdb
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\bin\Debug\System.Data.SqlClient.dll
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\bin\Debug\System.Data.SqlClient.xml
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.AssemblyReference.cache
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.AlarmForm.resources
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.Properties.Resources.resources
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.GenerateResource.cache
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.CoreCompileInputs.cache
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClo.DAACD0DA.Up2Date
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.exe
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.pdb
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.exe.config
+D:\Projects\ISRPO\labs\L11\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.AlarmEditForm.resources
