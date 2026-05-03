@@ -1,0 +1,11 @@
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe.config
+D:\Projects\ISRPO\labs\L15\SnakeGame\SnakeGame\obj\Debug\SnakeGame.MainForm.resources

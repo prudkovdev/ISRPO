@@ -1,0 +1,14 @@
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\bin\Debug\DailyPlannerApp.exe.config
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\bin\Debug\DailyPlannerApp.exe
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\bin\Debug\DailyPlannerApp.pdb
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\obj\Debug\DailyPlannerApp.csproj.AssemblyReference.cache
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\obj\Debug\DailyPlannerApp.MainForm.resources
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\obj\Debug\DailyPlannerApp.Properties.Resources.resources
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\obj\Debug\DailyPlannerApp.csproj.GenerateResource.cache
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\obj\Debug\DailyPlannerApp.csproj.CoreCompileInputs.cache
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\obj\Debug\DailyPlannerApp.exe
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\obj\Debug\DailyPlannerApp.pdb
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\obj\Debug\DailyPlannerApp.exe.config
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\bin\Debug\System.Data.SqlClient.dll
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\bin\Debug\System.Data.SqlClient.xml
+D:\Projects\ISRPO\labs\L13\DailyPlannerApp\DailyPlannerApp\obj\Debug\DailyPla.F67563EA.Up2Date

@@ -1,0 +1,14 @@
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\bin\Debug\NumberSystemConverterApp.exe.config
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\bin\Debug\NumberSystemConverterApp.exe
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\bin\Debug\NumberSystemConverterApp.pdb
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\bin\Debug\System.Data.SqlClient.dll
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\bin\Debug\System.Data.SqlClient.xml
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\obj\Debug\NumberSystemConverterApp.csproj.AssemblyReference.cache
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\obj\Debug\NumberSystemConverterApp.MainForm.resources
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\obj\Debug\NumberSystemConverterApp.Properties.Resources.resources
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\obj\Debug\NumberSystemConverterApp.csproj.GenerateResource.cache
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\obj\Debug\NumberSystemConverterApp.csproj.CoreCompileInputs.cache
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\obj\Debug\NumberSy.17D6F348.Up2Date
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\obj\Debug\NumberSystemConverterApp.exe
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\obj\Debug\NumberSystemConverterApp.pdb
+D:\Projects\ISRPO\labs\L14\NumberSystemConverterApp\NumberSystemConverterApp\obj\Debug\NumberSystemConverterApp.exe.config
